@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87fd456c-f954-4676-a7e8-bfd0d3c552e3/deploy-status)](https://app.netlify.com/sites/karant17/deploys)
+
+Visit my publsihed site at karant17.netlify.com
+
+Update on website coming soon with blogs.
 <!--
 **karant17/karant17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
