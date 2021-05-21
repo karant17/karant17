@@ -2,7 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/87fd456c-f954-4676-a7e8-bfd0d3c552e3/deploy-status)](https://app.netlify.com/sites/karant17/deploys)
 
-Visit my publsihed site at karant17.netlify.com
+Visit my publsihed site at <a href-"karant17.netlify.com">karant17.netlify.com</a>
+
+View my work on Articualte Storyline files at <a href-"storysample.netlify.app">storysample.netlify.app</a>
 
 Update on website coming soon with blogs.
 <!--
